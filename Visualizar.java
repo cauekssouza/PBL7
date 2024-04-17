@@ -1,3 +1,3 @@
 public interface Visualizar {
-    void visualizando();
+    void visualizar();
 }
